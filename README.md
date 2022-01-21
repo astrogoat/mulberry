@@ -1,4 +1,4 @@
-# A Mulberry app for Stratum
+# A Mulberry app for Strata
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/astrogoat/mulberry.svg?style=flat-square)](https://packagist.org/packages/astrogoat/mulberry)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/astrogoat/mulberry/run-tests?label=tests)](https://github.com/astrogoat/mulberry/actions?query=workflow%3Arun-tests+branch%3Amain)
