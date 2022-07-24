@@ -2,9 +2,9 @@
 
 namespace Astrogoat\Mulberry\Tests;
 
+use Astrogoat\Mulberry\MulberryServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Astrogoat\Mulberry\MulberryServiceProvider;
 
 class TestCase extends Orchestra
 {

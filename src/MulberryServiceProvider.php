@@ -2,11 +2,11 @@
 
 namespace Astrogoat\Mulberry;
 
+use Astrogoat\Mulberry\Settings\MulberrySettings;
 use Helix\Lego\Apps\App;
 use Helix\Lego\LegoManager;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Astrogoat\Mulberry\Settings\MulberrySettings;
 
 class MulberryServiceProvider extends PackageServiceProvider
 {
